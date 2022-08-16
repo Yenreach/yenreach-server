@@ -1,0 +1,1565 @@
+[27-Jun-2022 03:53:29 Africa/Lagos] PHP Fatal error:  Uncaught ValueError: min(): Argument #1 ($value) must contain at least one element in /home/omotropn/yenreach/api/initiate_billboard_application_api.php:47
+Stack trace:
+#0 /home/omotropn/yenreach/api/initiate_billboard_application_api.php(47): min()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/initiate_billboard_application_api.php on line 47
+[27-Jun-2022 04:53:09 Africa/Lagos] PHP Fatal error:  Uncaught ValueError: min(): Argument #1 ($value) must contain at least one element in /home/omotropn/yenreach/api/initiate_billboard_application_api.php:47
+Stack trace:
+#0 /home/omotropn/yenreach/api/initiate_billboard_application_api.php(47): min()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/initiate_billboard_application_api.php on line 47
+[27-Jun-2022 05:18:06 Africa/Lagos] PHP Fatal error:  Uncaught ValueError: min(): Argument #1 ($value) must contain at least one element in /home/omotropn/yenreach/api/initiate_billboard_application_api.php:47
+Stack trace:
+#0 /home/omotropn/yenreach/api/initiate_billboard_application_api.php(47): min()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/initiate_billboard_application_api.php on line 47
+[27-Jun-2022 05:26:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 05:59:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 09:54:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 10:34:22 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 11:55:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 12:16:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 12:22:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 12:43:34 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 13:30:34 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 13:38:14 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 14:34:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 14:46:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 15:50:07 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 16:19:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 16:23:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 16:51:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 17:16:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 17:38:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 21:59:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 22:29:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[28-Jun-2022 01:25:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[28-Jun-2022 01:33:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[28-Jun-2022 02:00:47 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[28-Jun-2022 02:27:04 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[28-Jun-2022 04:03:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot access private property MySQLDatabase::$connection in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_businesses_by_category_api.php on line 7
+[27-Jun-2022 23:15:41 America/New_York] PHP Warning:  require_once(./../includes_yenreach/initialize.php): Failed to open stream: No such file or directory in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php on line 2
+[27-Jun-2022 23:15:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required './../includes_yenreach/initialize.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php on line 2
+[28-Jun-2022 15:10:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Undefined constant "last_updated" in /home/omotropn/yenreach/api/add_business_photo_api.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_business_photo_api.php on line 107
+[28-Jun-2022 15:11:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Undefined constant "last_updated" in /home/omotropn/yenreach/api/add_business_photo_api.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_business_photo_api.php on line 107
+[28-Jun-2022 17:48:41 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jun-2022 17:48:43 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jun-2022 17:49:27 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jun-2022 17:53:58 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jun-2022 02:47:47 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jun-2022 03:56:19 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jun-2022 03:56:29 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jun-2022 15:34:15 Africa/Lagos] PHP Warning:  Undefined property: Businesses::$message in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 15:34:15 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: join(): Argument #1 ($pieces) must be of type array, string given in /home/omotropn/yenreach/api/edit_business_profile_api.php:63
+Stack trace:
+#0 /home/omotropn/yenreach/api/edit_business_profile_api.php(63): join()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 15:34:37 Africa/Lagos] PHP Warning:  Undefined property: Businesses::$message in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 15:34:37 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: join(): Argument #1 ($pieces) must be of type array, string given in /home/omotropn/yenreach/api/edit_business_profile_api.php:63
+Stack trace:
+#0 /home/omotropn/yenreach/api/edit_business_profile_api.php(63): join()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 15:34:54 Africa/Lagos] PHP Warning:  Undefined property: Businesses::$message in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 15:34:54 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: join(): Argument #1 ($pieces) must be of type array, string given in /home/omotropn/yenreach/api/edit_business_profile_api.php:63
+Stack trace:
+#0 /home/omotropn/yenreach/api/edit_business_profile_api.php(63): join()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 17:28:50 Africa/Lagos] PHP Warning:  Undefined property: Businesses::$message in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[29-Jun-2022 17:28:50 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: join(): Argument #1 ($pieces) must be of type array, string given in /home/omotropn/yenreach/api/edit_business_profile_api.php:63
+Stack trace:
+#0 /home/omotropn/yenreach/api/edit_business_profile_api.php(63): join()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/edit_business_profile_api.php on line 63
+[01-Jul-2022 03:01:14 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Jul-2022 13:36:42 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Jul-2022 14:58:49 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Jul-2022 17:58:18 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 03:58:42 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 03:59:29 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 06:29:57 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 16:22:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 16:34:44 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 16:38:19 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[02-Jul-2022 16:43:06 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[03-Jul-2022 05:01:01 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Jul-2022 03:42:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "BusinessApplications" not found in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php on line 18
+[04-Jul-2022 03:42:32 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "BusinessApplications" not found in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_billboard_application_by_string_api.php on line 18
+[04-Jul-2022 03:48:53 Africa/Lagos] PHP Fatal error:  Uncaught ValueError: min(): Argument #1 ($value) must contain at least one element in /home/omotropn/yenreach/api/update_billboard_application_api.php:55
+Stack trace:
+#0 /home/omotropn/yenreach/api/update_billboard_application_api.php(55): min()
+#1 {main}
+  thrown in /home/omotropn/yenreach/api/update_billboard_application_api.php on line 55
+[04-Jul-2022 11:55:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Jul-2022 12:09:35 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Jul-2022 12:11:28 Africa/Lagos] PHP Warning:  Undefined variable $apply in /home/omotropn/yenreach/api/revert_billboard_application_api.php on line 20
+[04-Jul-2022 12:11:28 Africa/Lagos] PHP Warning:  Attempt to read property "name" on null in /home/omotropn/yenreach/api/revert_billboard_application_api.php on line 20
+[04-Jul-2022 12:18:48 Africa/Lagos] PHP Warning:  Undefined property: BillboardApplications::$advert_string in /home/omotropn/yenreach/api/approve_billboard_application_api.php on line 12
+[04-Jul-2022 12:23:12 Africa/Lagos] PHP Warning:  Undefined property: BillboardApplications::$advert_string in /home/omotropn/yenreach/api/approve_billboard_application_api.php on line 12
+[04-Jul-2022 12:25:02 Africa/Lagos] PHP Warning:  Undefined property: BillboardApplications::$advert_string in /home/omotropn/yenreach/api/approve_billboard_application_api.php on line 12
+[05-Jul-2022 06:59:37 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[05-Jul-2022 06:59:44 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[05-Jul-2022 18:55:51 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Jul-2022 00:30:48 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Jul-2022 12:42:31 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Jul-2022 22:31:07 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Jul-2022 14:40:57 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/states.php(51): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/states.php(65): States::find_by_sql()
+#3 /home/omotropn/yenreach/api/edit_business_profile_api.php(20): States::find_by_id()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Jul-2022 14:41:11 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/states.php(51): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/states.php(65): States::find_by_sql()
+#3 /home/omotropn/yenreach/api/edit_business_profile_api.php(20): States::find_by_id()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Jul-2022 06:55:38 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Jul-2022 06:55:45 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Jul-2022 15:06:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Undefined constant "last_updated" in /home/omotropn/yenreach/api/add_business_photo_api.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_business_photo_api.php on line 107
+[08-Jul-2022 15:10:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Undefined constant "last_updated" in /home/omotropn/yenreach/api/add_business_photo_api.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_business_photo_api.php on line 107
+[09-Jul-2022 15:10:24 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[11-Jul-2022 01:15:16 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_varieties_shop.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[11-Jul-2022 07:08:48 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[11-Jul-2022 07:08:55 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[11-Jul-2022 21:29:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[12-Jul-2022 16:23:28 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[14-Jul-2022 11:12:05 Africa/Lagos] PHP Warning:  Attempt to read property "name" on bool in /home/omotropn/yenreach/api/fetch_videolink_by_string_api.php on line 16
+[14-Jul-2022 11:12:07 Africa/Lagos] PHP Warning:  Attempt to read property "name" on bool in /home/omotropn/yenreach/api/fetch_videolink_by_string_api.php on line 16
+[14-Jul-2022 11:12:21 Africa/Lagos] PHP Warning:  Attempt to read property "name" on bool in /home/omotropn/yenreach/api/fetch_videolink_by_string_api.php on line 16
+[14-Jul-2022 11:30:10 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[14-Jul-2022 11:30:18 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[15-Jul-2022 03:09:42 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[15-Jul-2022 17:32:20 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[15-Jul-2022 17:32:59 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[16-Jul-2022 21:39:38 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[16-Jul-2022 22:23:04 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[17-Jul-2022 02:55:56 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[17-Jul-2022 04:03:26 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[17-Jul-2022 07:07:49 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[17-Jul-2022 07:08:02 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[17-Jul-2022 17:05:39 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[18-Jul-2022 04:41:00 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[18-Jul-2022 16:16:56 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[18-Jul-2022 22:04:58 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[19-Jul-2022 09:58:23 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[19-Jul-2022 21:18:15 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[20-Jul-2022 09:19:06 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[20-Jul-2022 09:19:15 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[20-Jul-2022 18:28:54 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[20-Jul-2022 20:22:34 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[21-Jul-2022 15:54:21 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[21-Jul-2022 16:23:56 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[21-Jul-2022 21:38:36 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[22-Jul-2022 05:05:12 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[23-Jul-2022 10:34:39 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[23-Jul-2022 10:34:49 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[23-Jul-2022 18:33:47 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[23-Jul-2022 21:54:11 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[24-Jul-2022 09:02:36 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[24-Jul-2022 11:49:14 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[24-Jul-2022 13:17:33 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[24-Jul-2022 17:48:02 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[24-Jul-2022 18:29:26 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[25-Jul-2022 14:54:08 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[25-Jul-2022 20:05:20 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[26-Jul-2022 10:55:43 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[26-Jul-2022 17:48:04 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[26-Jul-2022 17:48:32 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[26-Jul-2022 21:45:01 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[27-Jul-2022 01:53:55 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[27-Jul-2022 13:47:44 Africa/Lagos] PHP Warning:  Undefined variable $duration in /home/omotropn/includes_yenreach/subscribers.php on line 104
+[27-Jul-2022 13:53:19 Africa/Lagos] PHP Warning:  Undefined variable $duration in /home/omotropn/includes_yenreach/subscribers.php on line 104
+[27-Jul-2022 13:55:59 Africa/Lagos] PHP Warning:  Undefined variable $duration in /home/omotropn/includes_yenreach/subscribers.php on line 104
+[27-Jul-2022 20:02:15 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[27-Jul-2022 20:13:16 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[27-Jul-2022 20:15:45 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[27-Jul-2022 20:19:10 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jul-2022 08:02:37 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jul-2022 12:20:47 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[28-Jul-2022 13:28:09 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jul-2022 12:11:17 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[29-Jul-2022 12:11:42 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[30-Jul-2022 11:31:49 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[30-Jul-2022 18:17:43 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Aug-2022 07:09:31 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Aug-2022 12:24:07 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Aug-2022 12:24:26 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[01-Aug-2022 16:20:51 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:05:32 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_Kitchen_.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:53:10 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:54:14 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:55:04 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:56:08 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 14:57:37 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[04-Aug-2022 15:00:12 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'spower22@gmail.com' AND id!=0 AND activation!=0' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(153): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(33): Users::find_by_sql()
+#3 /home/omotropn/includes_yenreach/users.php(41): Users->check_errors()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Aug-2022 19:00:21 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Aug-2022 20:24:35 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_Emporium_.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Aug-2022 23:08:57 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_Krib.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[06-Aug-2022 23:22:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_Kitchen_.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Aug-2022 02:02:51 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_Collection_.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Aug-2022 06:03:03 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_spotlight_Couture.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Aug-2022 06:48:02 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Aug-2022 13:33:10 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[07-Aug-2022 13:33:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 02:36:39 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's_varieties_shop.html' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/businesses.php(131): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/businesses.php(171): Businesses::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(7): Businesses::find_by_verify_string()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:09:17 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(220): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->update()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/activate_user_api.php(11): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:09:18 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:09:18 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:10:00 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:10:59 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:16:10 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:16:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:18:09 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:19:22 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:20:39 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:26:51 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:28:29 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:30:18 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:31:37 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[08-Aug-2022 14:39:45 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email_track' in 'field list' in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/users.php(201): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/users.php(226): Users->create()
+#3 /home/omotropn/includes_yenreach/users.php(49): Users->save()
+#4 /home/omotropn/yenreach/api/add_user_api.php(21): Users->insert()
+#5 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[09-Aug-2022 10:18:33 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[09-Aug-2022 14:29:06 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[09-Aug-2022 19:42:24 Africa/Lagos] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Clothing ' LIMIT 1' at line 1 in /home/omotropn/includes_yenreach/database.php:33
+Stack trace:
+#0 /home/omotropn/includes_yenreach/database.php(33): mysqli_query()
+#1 /home/omotropn/includes_yenreach/categories.php(82): MySQLDatabase->query()
+#2 /home/omotropn/includes_yenreach/categories.php(108): Categories::find_by_sql()
+#3 /home/omotropn/yenreach/api/fetch_related_categories_api.php(7): Categories::find_by_category()
+#4 {main}
+  thrown in /home/omotropn/includes_yenreach/database.php on line 33
+[16-Aug-2022 07:23:10 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:23:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:23:21 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:23:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:23:27 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:23:27 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_home_businesses_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:10 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:21 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:50 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:50 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/user_login_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:55 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/user_login_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:02 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_by_string_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:10 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:21 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:25:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:26:11 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:26:11 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:26:21 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:26:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:27:10 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:27:21 America/New_York] PHP Warning:  require_once(/home/omotropn/yenreach/includes_yenreach/config.php): Failed to open stream: No such file or directory in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 07:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omotropn/yenreach/includes_yenreach/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/omotropn/includes_yenreach/initialize.php:17
+Stack trace:
+#0 /home/omotropn/yenreach/api/fetch_business_categories_api.php(2): require_once()
+#1 {main}
+  thrown in /home/omotropn/includes_yenreach/initialize.php on line 17
+[16-Aug-2022 12:59:23 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:00:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:00:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:00:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:01:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:03:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:04:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:05:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:06:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:06:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:07:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:07:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:07:59 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:09:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:10:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:13:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:15:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:15:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:16:59 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:30:22 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:30:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:31:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:40:19 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:40:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:41:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:41:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/fetch_comments_api.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/fetch_comments_api.php on line 10
+[16-Aug-2022 13:43:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "Comments" not found in /home/omotropn/yenreach/api/add_comment_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/omotropn/yenreach/api/add_comment_api.php on line 9
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "id" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "author" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:14 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on string in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "id" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 15
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 16
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "blog_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 17
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author_string" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 18
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "author" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 19
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "comment" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 20
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "created_at" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 21
+[16-Aug-2022 13:50:29 Africa/Lagos] PHP Warning:  Attempt to read property "updated_at" on array in /home/omotropn/yenreach/api/fetch_comments_api.php on line 22
