@@ -7,8 +7,9 @@
         $sub = Subscribers::find_business_latest_subscription($string);
         if(!empty($sub)){
             $package = BusinessSubscriptions::find_by_verify_string($sub->subscription_string);
+            $plans = SubscriptionPaymentPlans::find_by_verify_string($sub->paymentplan_string);
             if(!empty($package)){
-                $subscription = $package->package;
+                $subscription = $package;
             } else {
                 $subscription = "";
             }
@@ -21,6 +22,7 @@
                     'subscription_string' => $sub->subscription_string,
                     'subscription' => $subscription,
                     'paymentplan_string' => $sub->paymentplan_string,
+                    'plans' => $plans,
                     'amount_paid' => $sub->amount_paid,
                     'duration_type' => $sub->duration_type,
                     'duration' => $sub->duration,

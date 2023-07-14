@@ -5,9 +5,13 @@
     $string = !empty($_GET['string']) ? (string)$_GET['string'] : "";
     if(!empty($string)){
         $businesses = Businesses::find_by_user_string($string);
+        
+        
         if(!empty($businesses)){
             $data_array = array();
             foreach($businesses as $business){
+                $reviews = BusinessReviews::find_by_business_string($business->verify_string);
+                $pagevisits = PageVisits::count_by_business_string($business->verify_string);
                 $data_array[] = array(
                         'id' => $business->id, 
                         'verify_string' => $business->verify_string, 
@@ -38,7 +42,11 @@
                         'year_started' => $business->year_started,
                         'reg_stage' => $business->reg_stage,
                         'activation' => $business->activation,
-                        'filename' => $business->filename, 
+                        'filename' => $business->filename,
+                        'profile_img' => $business->profile_img,
+                        'cover_img' => $business->cover_img,
+                        'reviews' => $reviews,
+                        'pagevisits' => $pagevisits,
                         'created' => $business->created,
                         'last_updated' => $business->last_updated
                     );

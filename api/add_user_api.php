@@ -21,19 +21,19 @@
                 if($user->insert()){
                     $return_array['status'] = 'success';
                     $return_array['data'] = array(
-                            'id' => $user->id,
-                            'verify_string' => $user->verify_string,
-                            'name' => $user->name,
-                            'email' => $user->email,
-                            'image' => $user->image, 
-                            'listed' => $user->listed,
-                            'refer_method' => $user->refer_method,
-                            'activation' => $user->activation,
-                            'autho_level' => $user->autho_level,
-                            'created' => $user->created,
-                            'last_updated' => $user->last_updated,
-                            'confirmed_email' => $user->confirmed_email
-                        );
+                        'id' => $user->id,
+                        'verify_string' => $user->verify_string,
+                        'name' => $user->name,
+                        'email' => $user->email,
+                        'image' => $user->image, 
+                        'listed' => $user->listed,
+                        'refer_method' => $user->refer_method,
+                        'activation' => $user->activation,
+                        'autho_level' => $user->autho_level,
+                        'created' => $user->created,
+                        'last_updated' => $user->last_updated,
+                        'confirmed_email' => $user->confirmed_email
+                    );
                         
                     $subject = "Account Activation";
                     $content = '<i>'.$user->name.'</i>,';
@@ -60,6 +60,7 @@
                             'reply_mail' => 'info@yenreach.com'
                         ];
                     perform_post_curl($purl, $pdata);
+                    
                 } else {
                     $return_array['status'] = 'failed';
                     $return_array['message'] = join(' ', $user->errors);
@@ -79,4 +80,5 @@
     
     $result = json_encode($return_array);
     echo $result;
+    // print_r($return_array)
 ?>

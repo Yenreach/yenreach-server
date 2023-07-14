@@ -17,9 +17,13 @@
                     'refer_method' => $user->refer_method,
                     'activation' => $user->activation,
                     'autho_level' => $user->autho_level,
+                    'cv' => $user->cv,
                     'created' => $user->created,
                     'last_updated' => $user->last_updated,
-                    'confirmed_email' => $user->confirmed_email
+                    'confirmed_email' => $user->confirmed_email,
+                    'phone' => $user->phone,
+                    'gender' => $user->gender,
+                    'dob' => $user->dob,
                 );
         } else {
             $return_array['status'] = 'failed';

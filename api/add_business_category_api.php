@@ -7,6 +7,8 @@
         $post = json_decode($post_json);
         
         $business_string = !empty($post->business_string) ? (string)$post->business_string : "";
+
+        //check if category exeeds limit
         $old_categs = BusinessCategories::find_by_business_string($business_string);
         $counted = count($old_categs);
         if($counted < 5){

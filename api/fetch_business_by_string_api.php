@@ -14,6 +14,10 @@
                 $owner_name = "";
                 $owner_email = "";
             }
+            $photos = BusinessPhotos::find_by_business_string($business->verify_string);
+            $products = Products::find_by_business_string($business->verify_string);
+            $reviews = BusinessReviews::find_by_business_string($business->verify_string);
+
             $return_array['status'] = 'success';
             $return_array['data'] = array(
                     'id' => $business->id, 
@@ -40,7 +44,7 @@
                     'instagram_link' => $business->instagram_link,
                     'youtube_link' => $business->youtube_link,
                     'linkedin_link' => $business->linkedin_link,
-                    'working_hours' => $business->working_hours,
+                    'working_hours' => html_entity_decode($business->working_hours),
                     'cv' => $business->cv,
                     'modifiedby' => $business->modifiedby,
                     'experience' => $business->experience,
@@ -48,7 +52,12 @@
                     'year_started' => $business->year_started,
                     'reg_stage' => $business->reg_stage,
                     'activation' => $business->activation,
-                    'filename' => $business->filename, 
+                    'filename' => $business->filename,
+                    'photos' => $photos,
+                    'reviews' => $reviews,
+                    'products' => $products,
+                    'profile_img' => $business->profile_img,
+                    'cover_img' => $business->cover_img,
                     'created' => $business->created,
                     'last_updated' => $business->last_updated
                 );

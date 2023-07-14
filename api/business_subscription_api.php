@@ -18,6 +18,7 @@
                 $subscribe->paymentplan_string = $sub_payment->paymentplan_string;
                 $plan = SubscriptionPaymentPlans::find_by_verify_string($sub_payment->paymentplan_string);
                 $user = Users::find_by_verify_string($sub_payment->user_string);
+                $business = Businesses::find_by_verify_string($sub_payment->business_string);
                 if(!empty($plan)){
                     $time = time();
                     $subscribe->subscription_string = $plan->subscription_string;
@@ -33,6 +34,10 @@
                     if($subscribe->subscribe()){
                         $sub_payment->status = 3;
                         $sub_payment->insert();
+
+                        $business->subscription_string = $sub_payment->subscription_string;
+                        $business->insert();       
+                               
                         $return_array['status'] = 'success';
                         $return_array['data'] = array(
                                 'id' => $subscribe->id,

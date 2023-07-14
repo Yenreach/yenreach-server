@@ -1,8 +1,9 @@
 <?php
     require_once("../../includes_yenreach/initialize.php");
     $return_array = array();
-    
     $business_array = array();
+    
+    //check for subscription and sort in order of subscription
     $packages = BusinessSubscriptions::find_all();
     if(!empty($packages)){
         foreach($packages as $package){
@@ -19,6 +20,8 @@
             }
         }
     }
+
+    
     $businesses = Businesses::find_approved_businesses();
     if(!empty($businesses)){
         foreach($businesses as $busin){
@@ -27,24 +30,21 @@
             }
         }
     }
-    
     if(!empty($business_array)){
         $data_array = array();
-        
+
         foreach($business_array as $verify_string){
             $business = Businesses::find_by_verify_string($verify_string);
             $user = Users::find_by_verify_string($business->user_string);
             $photos = BusinessPhotos::find_by_business_string($business->verify_string);
             $categories = BusinessCategories::find_by_business_string($business->verify_string);
+
             $data_array[] = array(
                     'id' => $business->id,
                     'verify_string' => $business->verify_string,
                     'name' => $business->name,
                     'description' => $business->description,
                     'user_string' => $business->user_string,
-                    'user_name' => $user->name,
-                    'user_email' => $user->email,
-                    'subscription_string' => $business->subscription_string,
                     'category' => $business->category, 
                     'address' => $business->address,
                     'town' => $business->town,
@@ -72,17 +72,20 @@
                     'remarks' => $business->remarks,
                     'created' => $business->created,
                     'last_updated' => $business->last_updated,
+                    'profile_img' => $business->profile_img,
+                    'cover_img' => $business->cover_img,
                     'photos' => $photos,
-                    'categories' => $categories
+                    'categories' => $categories,
                 );
         }
+        
         $return_array['status'] = 'success';
         $return_array['data'] = $data_array;
     } else {
         $return_array['status'] = 'failed';
-        $return_array['message'] = 'There are no approved Businesses';
+        $return_array['message'] = 'No Business was fetched';
     }
-    
+   
     $result = json_encode($return_array);
     echo $result;
 ?>

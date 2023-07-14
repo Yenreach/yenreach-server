@@ -22,17 +22,17 @@
                     if($payment->insert()){
                         $return_array['status'] = 'success';
                         $return_array['data'] = array(
-                                'id' => $payment->id,
-                                'verify_string' => $payment->verify_string,
-                                'user_type' => $payment->user_type,
-                                'user_string' => $payment->user_string,
-                                'business_string' => $payment->business_string,
-                                'subscription_string' => $payment->subscription_string, 
-                                'paymentplan_string' => $payment->paymentplan_string,
-                                'status' => $payment->status,
-                                'created' => $payment->created,
-                                'last_updated' => $payment->last_updated
-                            );
+                            'id' => $payment->id,
+                            'verify_string' => $payment->verify_string,
+                            'user_type' => $payment->user_type,
+                            'user_string' => $payment->user_string,
+                            'business_string' => $payment->business_string,
+                            'subscription_string' => $payment->subscription_string, 
+                            'paymentplan_string' => $payment->paymentplan_string,
+                            'status' => $payment->status,
+                            'created' => $payment->created,
+                            'last_updated' => $payment->last_updated
+                        );
                     } else {
                         $return_array['status'] = 'failed';
                         $return_array['message'] = join(' ', $payment->errors);

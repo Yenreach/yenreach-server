@@ -82,7 +82,7 @@
                         'reply_mail' => 'info@yenreach.com'
                     ];
                     
-                perform_post_curl($purl, $pdata);
+                // perform_post_curl($purl, $pdata);
             } else {
                 $return_array['status'] = 'failed';
                 $return_array['message'] = join(' ', $business->errors);

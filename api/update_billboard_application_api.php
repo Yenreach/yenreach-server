@@ -15,7 +15,6 @@
                 $application->action_type = !empty($post->action_type) ? (string)$post->action_type : "";
                 $application->action_link = !empty($post->action_link) ? (string)$post->action_link : "";
                 $application->proposed_start_date = !empty($post->proposed_start) ? (string)$post->proposed_start : "";
-                $application->advert_type = !empty($post->advert_type) ? (string)$post->advert_type : "";
                 $application->status = 2;
                 
                 $total_active = BillboardApplications::find_period_total($application->proposed_start_date);

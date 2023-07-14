@@ -73,6 +73,8 @@
                                 'created' => $business->created,
                                 'last_updated' => $business->last_updated,
                                 'photos' => $photos,
+                                'cover_img' => $business->cover_img,
+                                'profile_img' => $business->profile_img,
                                 'categories' => $categories
                             );
                     }
@@ -203,6 +205,8 @@
                                 'created' => $business->created,
                                 'last_updated' => $business->last_updated,
                                 'photos' => $photos,
+                                'cover_img' => $business->cover_img,
+                                'profile_img' => $business->profile_img,
                                 'categories' => $categories
                             );
                     }

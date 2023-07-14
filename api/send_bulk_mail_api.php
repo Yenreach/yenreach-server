@@ -9,6 +9,13 @@
         $sender = !empty($post->sender) ? (string)$post->sender : "";
         $body = !empty($post->content) ? (string)$post->content : "";
         $subject = !empty($post->subject) ? (string)$post->subject : "";
+        $id = $post->id;
+
+        $test = array(
+                'sender' => $sender,
+                'body' => $body,
+                'subject' => $subject,
+            );
         
         if(!empty($sender)){
             if(!empty($body)){
@@ -73,5 +80,6 @@
     }
     
     $result = json_encode($return_array);
-    echo $result;
+    $result2 = json_encode($test);
+    echo $result2;
 ?>

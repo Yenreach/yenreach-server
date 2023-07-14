@@ -14,6 +14,9 @@
                 $owner_name = "";
                 $owner_email = "";
             }
+
+            // $str = $business->description;
+            $str = html_entity_decode($business->working_hours);
             $data_array[] = array(
                     'id' => $business->id,
                     'verify_string' => $business->verify_string,
@@ -36,7 +39,7 @@
                     'instagram_link' => $business->instagram_link,
                     'youtube_link' => $business->youtube_link,
                     'linkedin_link' => $business->linkedin_link,
-                    'working_hours' => $business->working_hours,
+                    'working_hours' => "ffef",
                     'cv' => $business->cv,
                     'reg_stage' => $business->reg_stage,
                     'modifiedby' => $business->modifiedby,
@@ -44,6 +47,7 @@
                     'created' => $business->created,
                     'last_updated' => $business->last_updated
                 );
+
         }
         $return_array['status'] = 'success';
         $return_array['data'] = $data_array;

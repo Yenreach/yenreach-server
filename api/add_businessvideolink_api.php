@@ -25,11 +25,11 @@
                             $link = new BusinessVideoLinks();
                             $link->platform = !empty($post->platform) ? (string)$post->platform : "";
                             $video_link = !empty($post->video_link) ? (string)$post->video_link : "";
+                            $link->real_link = $video_link;
                             if($link->platform == "YouTube"){
                                 $extract = substr($video_link, 17);
                                 $link->video_link = "https://www.youtube.com/embed/".$extract;
                             }
-                            $link->real_link = $video_link;
                             $link->user_string = !empty($post->user_string) ? (string)$post->user_string : "";
                             $link->business_string = $business_string;
                             

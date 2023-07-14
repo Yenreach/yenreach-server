@@ -10,9 +10,13 @@
                     "id" => $blogpost->id,
                     "blog_string" => $blogpost->blog_string,
                     "title" => $blogpost->title,
+                    "snippet" => $blogpost->snippet,
                     "author" => $blogpost->author,
                     "post" => $blogpost->post,
+                    "priority" => $blogpost->priority,
+                    'file_path' => $blogpost->file_path,
                     "created_at" => $blogpost->created_at,
+                    "updated_at" => $blogpost->updated_at
                 );
         }
         $return_array['status'] = 'success';

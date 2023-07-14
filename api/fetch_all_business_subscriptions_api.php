@@ -6,6 +6,7 @@
     if(!empty($subscriptions)){
         $data_array = array();
         foreach($subscriptions as $subscription){
+        $plans = SubscriptionPaymentPlans::find_by_subscription_string($subscription->verify_string);
             $data_array[] = array(
                     'id' => $subscription->id,
                     'verify_string' => $subscription->verify_string,
@@ -17,6 +18,7 @@
                     'slider' => $subscription->slider,
                     'socialmedia' => $subscription->socialmedia,
                     'branches' => $subscription->branches,
+                    'plans' => $plans,
                     'created' => $subscription->created,
                     'last_updated' => $subscription->last_updated
                 );

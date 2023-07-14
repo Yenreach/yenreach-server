@@ -110,7 +110,7 @@
                                                     'tx_ref' => $tx_ref,
                                                     'currency' => $money->currency,
                                                     'amount' => $money->amount,
-                                                    'redirect_url' => 'https://payments.yenreach.com/flutterwave_verification_page.php',
+                                                    'redirect_url' => 'http://127.0.0.1:5173/users/verify_payment',
                                                     'payment_options' => 'card',
                                                     'customer' => array(
                                                             'email' => $user->email,

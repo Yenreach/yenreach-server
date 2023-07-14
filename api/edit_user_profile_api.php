@@ -12,6 +12,10 @@
             if(!empty($user)){
                 $user->name = !empty($post->name) ? (string)$post->name : "";
                 $user->email = !empty($post->email) ? (string)$post->email : "";
+                $user->image = !empty($post->image) ? (string)$post->image : "";
+                $user->dob = !empty($post->dob) ? (string)$post->dob : "";
+                $user->phone = !empty($post->phone) ? (string)$post->phone : "";
+                $user->gender = !empty($post->gender) ? (string)$post->gender : "";
                 if($user->insert()){
                     $return_array['status'] = 'success';
                     $return_array['data'] = array(
@@ -25,6 +29,9 @@
                             'activation' => $user->activation,
                             'autho_level' => $user->autho_level,
                             'created' => $user->created,
+                            'phone' => $user->phone,
+                            'gender' => $user->gender,
+                            'dob' => $user->dob,
                             'last_updated' => $user->last_updated,
                             'confirmed_email' => $user->confirmed_email
                         );

@@ -36,6 +36,8 @@
                     'youtube_link' => $business->youtube_link,
                     'linkedin_link' => $business->linkedin_link,
                     'working_hours' => $business->working_hours,
+                    'profile_img' => $business->profile_img,
+                    'cover_img' => $business->cover_img,
                     'cv' => $business->cv,
                     'modifiedby' => $business->modifiedby,
                     'experience' => $business->experience,

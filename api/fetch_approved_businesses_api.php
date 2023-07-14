@@ -1,14 +1,18 @@
 <?php
     require_once("../../includes_yenreach/initialize.php");
     $return_array = array();
+    $skip = !empty($_GET['offset']) ? (int)$_GET['skip'] : 0;
+    $per_page = !empty($_GET['per_page']) ? (int)$_GET['per_page'] : 20;
     
-    $businesses = Businesses::find_approved_businesses();
+    $businesses = Businesses::find_approved_business_paginated($per_page, $skip);
     if(!empty($businesses)){
         $data_array = array();
         foreach($businesses as $business){
             $user = Users::find_by_verify_string($business->user_string);
             $photos = BusinessPhotos::find_by_business_string($business->verify_string);
             $categories = BusinessCategories::find_by_business_string($business->verify_string);
+            $reviews = BusinessReviews::find_by_business_string($business->verify_string);
+
             $data_array[] = array(
                     'id' => $business->id,
                     'verify_string' => $business->verify_string,
@@ -46,6 +50,7 @@
                     'created' => $business->created,
                     'last_updated' => $business->last_updated,
                     'photos' => $photos,
+                    'reviews' => $reviews,
                     'categories' => $categories
                 );
         }

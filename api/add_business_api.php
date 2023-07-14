@@ -18,8 +18,22 @@
         $business->state_id = !empty($post->state_id) ? (string)$post->state_id : "";
         $state = States::find_by_id($business->state_id);
         $business->state = $state->name;
+        $business->month_started = !empty($post->month_started) ? (string)$post->month_started : "";
+        $business->year_started = !empty($post->year_started) ? (string)$post->year_started : "";
+        $business->profile_img = !empty($post->profile_img) ? (string)$post->profile_img : "";
+        $business->cover_img = !empty($post->cover_img) ? (string)$post->cover_img : "";
         $business->activation = 1;
         $business->reg_stage = 1;
+
+        if($month_started && $year_started){
+            $business->activation = 2;
+            $business->reg_stage = 2;
+        }
+
+        if($profile_img && $cover_img){
+            $business->activation = 3;
+            $business->reg_stage = 3;
+        }
         
         if($business->insert()){
             $return_array['status'] = 'success';
@@ -54,6 +68,8 @@
                     'reg_stage' => $business->reg_stage,
                     'activation' => $business->activation,
                     'filename' => $business->filename, 
+                    'profile_img' => $profile_img,
+                    'cover_img' => $cover_img,
                     'created' => $business->created,
                     'last_updated' => $business->last_updated
                 );

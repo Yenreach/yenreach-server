@@ -11,18 +11,18 @@
             if($user->insert()){
                 $return_array['status'] = 'success';
                 $return_array['data'] = array(
-                        'id' => $user->id,
-                        'verify_string' => $user->verify_string,
-                        'name' => $user->name,
-                        'email' => $user->email,
-                        'image' => $user->image, 
-                        'listed' => $user->listed,
-                        'refer_method' => $user->refer_method,
-                        'activation' => $user->activation,
-                        'created' => $user->created,
-                        'last_updated' => $user->last_updated,
-                        'confirmed_email' => $user->confirmed_email
-                    );
+                    'id' => $user->id,
+                    'verify_string' => $user->verify_string,
+                    'name' => $user->name,
+                    'email' => $user->email,
+                    'image' => $user->image, 
+                    'listed' => $user->listed,
+                    'refer_method' => $user->refer_method,
+                    'activation' => $user->activation,
+                    'created' => $user->created,
+                    'last_updated' => $user->last_updated,
+                    'confirmed_email' => $user->confirmed_email
+                );
             } else {
                 $return_array['status'] = 'failed';
                 $return_array['message'] = 'No means of Identification';

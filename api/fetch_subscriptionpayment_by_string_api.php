@@ -18,6 +18,7 @@
                     'status' => $payment->status,
                     'created' => $payment->created,
                     'last_updated' => $payment->last_updated
+                    
                 );
         } else {
             $return_array['status'] = 'failed';
